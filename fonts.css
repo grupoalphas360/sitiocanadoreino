@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Christmas Squad - Personal Use";
+   src: url("fonts/ChristmasSquad-PersonalUse.woff") format("woff"), url("fonts/ChristmasSquad-PersonalUse.eot") format("embedded-opentype"), url("fonts/ChristmasSquad-PersonalUse.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Colonna MT";
+   src: url("fonts/Colonna MT.woff") format("woff"), url("fonts/Colonna MT.eot") format("embedded-opentype"), url("fonts/Colonna MT.TTF") format("truetype"), url("fonts/Colonna MT.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}

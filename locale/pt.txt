@@ -1,0 +1,22 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Decoração de Natal - Sitio Cana do Reino por @natalepronto @grupoalphas
+
+### Title
+tour.name = Sitio Cana do Reino - Decoração de Natal
+
+## Media
+
+### Title
+panorama_60C44555_6CCB_E945_41B2_4F9943F7E89B.label = 4
+panorama_60C50E7B_6CCA_3B4C_41C0_EC36C025278B.label = 2
+panorama_60C5AF9B_6CCA_59CD_41A8_E6BEBB325B58.label = 9
+panorama_60C5B7C6_6CCA_2947_41B1_438D71FCC521.label = 7
+panorama_60C5BC72_6CCB_DF5C_41D2_FD97E0B3770F.label = 6
+panorama_60C5DB95_6CCA_79C5_41D9_4FDD54F8E0B1.label = 10
+panorama_60C5F390_6CCA_29DB_41A5_3889D9217EAF.label = 8
+panorama_7B72E3FB_6D46_294D_41CF_47490EF8D765.label = 1
+panorama_7E0A3CD4_6CCA_3F5B_41A6_06292D2F8E23.label = U
